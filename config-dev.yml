@@ -1,6 +1,7 @@
 # application.yaml
 server:
   port: 8088
+  test: 1004
 spring:
   cloud:
     config:
